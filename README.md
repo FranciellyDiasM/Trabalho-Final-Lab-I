@@ -42,7 +42,8 @@ execução do programa
 ## Progresso
 | Item          | Progresso     |
 | ------------- | ------------- |
+| Tema          | Professores   |
 | Código        | :heavy_check_mark:  |
 | Ensaio        | :heavy_check_mark:  |
 | Apresentação  | :heavy_check_mark:  |
-| Resultado(Nota)  | 8.0/8.0 :tada:  |
+| Resultado(Nota)  | 8.0/8.0 :tada:   |
